@@ -1,0 +1,187 @@
+{
+  "name": "Vader Gray",
+  "description": "A clean and modern gray dark theme.",
+  "color": "#888888",
+  "authors": [
+    {
+      "name": "neinkatze",
+      "id": "1125315673829154837"
+    }
+  ],
+  "semanticColors": {
+    "HEADER_PRIMARY": [
+      "#ffffff",
+      "#ffffff"
+    ],
+    "HEADER_SECONDARY": [
+      "#cccccc",
+      "#ffffff"
+    ],
+    "TEXT_NORMAL": [
+      "#e0e0e0",
+      "#ffffff"
+    ],
+    "TEXT_MUTED": [
+      "#a0a0a0",
+      "#ffffff"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#aaaaaa",
+      "#ffffff"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#bcbcbc",
+      "#ffffff"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#d0d0d0",
+      "#ffffff"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#3a3a3a",
+      "#ffffff"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#1a1a1a",
+      "#ffffff"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#2a2a2a",
+      "#ffffff"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#2a2a2a",
+      "#ffffff"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#0f0f0f",
+      "#ffffff"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#3a3a3a",
+      "#ffffff"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#1e1e1e",
+      "#ffffff"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#1e1e1e",
+      "#ffffff"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#2a2a2a",
+      "#ffffff"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#2a2a2a",
+      "#ffffff"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#333333",
+      "#ffffff"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#333333",
+      "#ffffff"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#444444",
+      "#ffffff"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#555555",
+      "#ffffff"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "transparent",
+      "#ffffff"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#3a3a3a",
+      "#ffffff"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent",
+      "#ffffff"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#4a4a4a",
+      "#ffffff"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "#1a1a1a",
+      "#ffffff"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#1a1a1a",
+      "#ffffff"
+    ],
+    "CHAT_BACKGROUND": [
+      "#1a1a1a",
+      "#ffffff"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#c0c0c0",
+      "#ffffff"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#1c1c1c"
+    ],
+    "BG_BASE_PRIMARY": [
+      "#1a1a1a",
+      "#ffffff"
+    ],
+    "BG_BACKDROP": [
+      "#00000080"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#2a2a2a"
+    ],
+    "TEXT_LINK": [
+      "#aaaaaa",
+      "#ffffff"
+    ],
+    "KEYBOARD": [
+      "#2a2a2a",
+      "#ffffff"
+    ],
+    "CHANNEL_ICON": [
+      "#aaaaaa",
+      "#ffffff"
+    ]
+  },
+  "rawColors": {
+    "PRIMARY": "#1a1a1a",
+    "PRIMARY_100": "#ffffff",
+    "PRIMARY_200": "#e0e0e0",
+    "PRIMARY_300": "#c0c0c0",
+    "PRIMARY_360": "#b0b0b0",
+    "PRIMARY_400": "#909090",
+    "PRIMARY_500": "#888888",
+    "PRIMARY_600": "#2a2a2a",
+    "PRIMARY_630": "#3a3a3a",
+    "PRIMARY_700": "#101010",
+    "PRIMARY_800": "#1a1a1a",
+    "PLUM_1": "#ffffff",
+    "PLUM_10": "#a0a0a0",
+    "PLUM_11": "#232323",
+    "PLUM_13": "#c0c0c0",
+    "PLUM_17": "#1a1a1a",
+    "PLUM_18": "#1a1a1a",
+    "PLUM_19": "#1a1a1a",
+    "PLUM_20": "#1a1a1a",
+    "PLUM_22": "#1a1a1a",
+    "BRAND_260": "#aaaaaa",
+    "BRAND_500": "#888888",
+    "BRAND_900": "#1a1a1a",
+    "BRAND": "#aaaaaa",
+    "YELLOW_300": "#ffffff",
+    "GREEN_600": "#ffffff",
+    "DANGER": "#aa4444",
+    "RED": "#848484"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#1a1a1a"
+  }
+}
