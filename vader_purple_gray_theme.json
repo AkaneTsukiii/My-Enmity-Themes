@@ -1,0 +1,187 @@
+{
+  "name": "Vader Purple Gray",
+  "description": "A sleek purple-gray dark theme.",
+  "color": "#8e6eab",
+  "authors": [
+    {
+      "name": "akane.tsukiii",
+      "id": "1303349353192230942"
+    }
+  ],
+  "semanticColors": {
+    "HEADER_PRIMARY": [
+      "#ffffff",
+      "#ffffff"
+    ],
+    "HEADER_SECONDARY": [
+      "#cccccc",
+      "#ffffff"
+    ],
+    "TEXT_NORMAL": [
+      "#e0e0e0",
+      "#ffffff"
+    ],
+    "TEXT_MUTED": [
+      "#c2b7d4",
+      "#ffffff"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#a189bc",
+      "#ffffff"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#b69fd0",
+      "#ffffff"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#d0bde8",
+      "#ffffff"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#3a3344",
+      "#ffffff"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#1e1a24",
+      "#ffffff"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#2a2434",
+      "#ffffff"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#2a2434",
+      "#ffffff"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#15101c",
+      "#ffffff"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#3a3344",
+      "#ffffff"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#2a2434",
+      "#ffffff"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#2a2434",
+      "#ffffff"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#1e1a24",
+      "#ffffff"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#1e1a24",
+      "#ffffff"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#40364e",
+      "#ffffff"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#40364e",
+      "#ffffff"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#55496a",
+      "#ffffff"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#665580",
+      "#ffffff"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "transparent",
+      "#ffffff"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#3a3344",
+      "#ffffff"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent",
+      "#ffffff"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#4a3b5c",
+      "#ffffff"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "#1a1a1a",
+      "#ffffff"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#1e1a24",
+      "#ffffff"
+    ],
+    "CHAT_BACKGROUND": [
+      "#1e1a24",
+      "#ffffff"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#cfc3db",
+      "#ffffff"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#221c2a"
+    ],
+    "BG_BASE_PRIMARY": [
+      "#1e1a24",
+      "#ffffff"
+    ],
+    "BG_BACKDROP": [
+      "#00000080"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#2a2434"
+    ],
+    "TEXT_LINK": [
+      "#b69fd0",
+      "#ffffff"
+    ],
+    "KEYBOARD": [
+      "#2a2434",
+      "#ffffff"
+    ],
+    "CHANNEL_ICON": [
+      "#b69fd0",
+      "#ffffff"
+    ]
+  },
+  "rawColors": {
+    "PRIMARY": "#1e1a24",
+    "PRIMARY_100": "#ffffff",
+    "PRIMARY_200": "#e0ddec",
+    "PRIMARY_300": "#c2b7d4",
+    "PRIMARY_360": "#aa97c2",
+    "PRIMARY_400": "#9984b5",
+    "PRIMARY_500": "#8e6eab",
+    "PRIMARY_600": "#2a2434",
+    "PRIMARY_630": "#3a3344",
+    "PRIMARY_700": "#15101c",
+    "PRIMARY_800": "#1e1a24",
+    "PLUM_1": "#ffffff",
+    "PLUM_10": "#b9a9c7",
+    "PLUM_11": "#2b2533",
+    "PLUM_13": "#d6c1e3",
+    "PLUM_17": "#1e1a24",
+    "PLUM_18": "#1e1a24",
+    "PLUM_19": "#1e1a24",
+    "PLUM_20": "#1e1a24",
+    "PLUM_22": "#1e1a24",
+    "BRAND_260": "#a189bc",
+    "BRAND_500": "#8e6eab",
+    "BRAND_900": "#1e1a24",
+    "BRAND": "#a189bc",
+    "YELLOW_300": "#ffffff",
+    "GREEN_600": "#ffffff",
+    "DANGER": "#aa4466",
+    "RED": "#9a6c88"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#1e1a24"
+  }
+}
